@@ -21,5 +21,8 @@
     "name": "Tim Griesser",
     "web": "https://github.com/tgriesser"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  }
 }
