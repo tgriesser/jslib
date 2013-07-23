@@ -1,0 +1,9 @@
+{
+  "name": "jslib",
+  "version": "0.0.0",
+  "main": "jslib.js",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
