@@ -28,6 +28,8 @@
 
   Jslib.VERSION = '0.0.0';
 
+  Jslib.prototype = {};
+
   return Jslib;
 
 }));
